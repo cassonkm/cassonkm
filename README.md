@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cassonkm
+- 👀 I’m interested in A.I, Blockchain
+- 🌱 I’m currently learning Python 
