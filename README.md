@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cassonkm
-- 👀 I’m interested in A.I, Blockchain
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Robotics, Computer architechture and Electronics 
+- Currently learning C 
